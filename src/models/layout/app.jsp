@@ -7,17 +7,18 @@
         <title>タスク管理</title>
         <link rel="stylesheet" href="<c:url value='/css/reset.css' />">
         <link rel="stylesheet" href="<c:url value='/css/style.css' />">
+
     </head>
     <body>
         <div id="wrapper">
             <div id="header">
-                <h1>タスク管理 アプリケーション</h1>
+                <h1>タスク管理アプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
             </div>
             <div id="footer">
-                by まめ.
+                by Hara
             </div>
         </div>
     </body>
